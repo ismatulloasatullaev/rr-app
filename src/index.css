@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  font-family: monospace;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+body {
+  height: 100%;
+  width: 100%;
+  background-color: rgb(225, 178, 62);
+}
+.logo {
+  height: 60px;
+  width: 130px;
+}
